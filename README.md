@@ -1,7 +1,7 @@
 # ReactNative-TheExpenseTrackerApp
 
 
-• Navogation | Stack, Tabs
+• Navigation | Stack, Tabs
 
 • Custom Buttons
 
