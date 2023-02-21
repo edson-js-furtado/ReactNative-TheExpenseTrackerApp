@@ -13,4 +13,3 @@
 
 • Firebase Backend | Post, Get, Update, Delete
 
-• Token Validation
