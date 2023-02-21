@@ -12,3 +12,5 @@
 • Validation | Error Style
 
 • Firebase Backend | Post, Get, Update, Delete
+
+• Token Validation
